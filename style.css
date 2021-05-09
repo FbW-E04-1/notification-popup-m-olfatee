@@ -1,0 +1,18 @@
+img{
+    height: 32px;  
+}
+div{
+    background-color: tomato;
+    display: inline-block;
+    padding: 30px;
+    position: fixed;
+    bottom: 0;
+    right: 16px;
+}
+button{
+    position: absolute;
+    top: -16px;
+    right: -16px;
+    background-color: rgba(255, 255, 255, 0);
+    border: rgba(255, 255, 255, 0);
+}
